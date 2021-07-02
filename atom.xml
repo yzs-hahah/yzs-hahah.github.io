@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yzs</title>
+  
+  
+  <link href="http://yzh-hahah.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yzh-hahah.github.io/"/>
+  <updated>2021-07-02T10:26:28.464Z</updated>
+  <id>http://yzh-hahah.github.io/</id>
+  
+  <author>
+    <name>yzs</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="http://yzh-hahah.github.io/2021/07/02/My-first-Blog/"/>
+    <id>http://yzh-hahah.github.io/2021/07/02/My-first-Blog/</id>
+    <published>2021-07-02T09:55:51.000Z</published>
+    <updated>2021-07-02T10:26:28.464Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="初识blog"><a href="#初识blog" class="headerlink" title="初识blog"></a>初识blog</h1><p>在2021年7月2号的今天，我也加入互联网博客的大家庭了。以后，请多关照！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;初识blog&quot;&gt;&lt;a href=&quot;#初识blog&quot; class=&quot;headerlink&quot; title=&quot;初识blog&quot;&gt;&lt;/a&gt;初识blog&lt;/h1&gt;&lt;p&gt;在2021年7月2号的今天，我也加入互联网博客的大家庭了。以后，请多关照！！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日常，生活" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E5%B8%B8%EF%BC%8C%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="日常，随想" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E5%B8%B8%EF%BC%8C%E9%9A%8F%E6%83%B3/"/>
+    
+    <category term="日记" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日常" scheme="http://yzh-hahah.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
