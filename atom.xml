@@ -6,7 +6,7 @@
   <link href="http://yzh-hahah.github.io/atom.xml" rel="self"/>
   
   <link href="http://yzh-hahah.github.io/"/>
-  <updated>2021-07-02T10:26:28.464Z</updated>
+  <updated>2021-07-03T08:34:35.569Z</updated>
   <id>http://yzh-hahah.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yzh-hahah.github.io/2021/07/02/My-first-Blog/"/>
     <id>http://yzh-hahah.github.io/2021/07/02/My-first-Blog/</id>
     <published>2021-07-02T09:55:51.000Z</published>
-    <updated>2021-07-02T10:26:28.464Z</updated>
+    <updated>2021-07-03T08:34:35.569Z</updated>
     
     <content type="html"><![CDATA[<h1 id="初识blog"><a href="#初识blog" class="headerlink" title="初识blog"></a>初识blog</h1><p>在2021年7月2号的今天，我也加入互联网博客的大家庭了。以后，请多关照！！</p>]]></content>
     
@@ -34,11 +34,7 @@
     
     
     
-    <category term="日常，生活" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E5%B8%B8%EF%BC%8C%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="日常，随想" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E5%B8%B8%EF%BC%8C%E9%9A%8F%E6%83%B3/"/>
-    
-    <category term="日记" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="日常" scheme="http://yzh-hahah.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
     <category term="日常" scheme="http://yzh-hahah.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
